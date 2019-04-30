@@ -97,8 +97,10 @@ Mining farms are data centers that provide hosting service for mining hardware. 
 *Figure 9: A Bitcoin mining farm*
 ![](9.png)
 *Source: news.qq.com*
+
 *Figure 10: Electricity tariffs in different countries*
 ![](10.png)
+
 *Source: Electricity Tariffs, Power Outages and Firm Performance*
 
 Data from blockchain.info suggest that global electricity consumption of Bitcoin mining totaled 22.7bn kWh in 2017 and mining farms in China accounted for about 70% of that. However, plenty of mining farms in China have begun moving overseas as China tightens regulations on Bitcoin. For example, the PBoC1 issued on September 4, 2017 a document to restrict the operation of Bitcoin exchanges in China. In addition, a working group on internet finance discussed measures to guide the exit of mining farms in November 2017, and the PBoC has required local governments to gradually downsize Bitcoin mining farms by restricting power supply.
