@@ -221,3 +221,21 @@ Pure custody service: a custodian provides five private keys that are owned by t
 *Source: Cobo Custody*
 
 Joint custody service: a custodian provides five private keys for a crypto asset. Four of the five private keys are owned by the custodian and one private key is owned by the client. The five private keys are stored in different locations. The crypto asset cannot be accessed unless three correct private keys are used.
+
+## 7. Reference 
+
+1. Johnson, B. , Laszka, A. , Grossklags, J. , Vasek, M. , & Moore, T. . (2014). Game-theoretic analysis of ddos attacks against bitcoin mining pools. Lecture Notes in Computer Science, 8438, 72-86.
+
+2. Lewenberg, Y., Bachrach, Y., Sompolinsky, Y., Zohar, A., & Rosenschein, J. S. (2015). Bitcoin Mining Pools: A Cooperative Game Theoretic Analysis. International Conference on Autonomous Agents & Multiagent Systems.
+
+3. Rui, Q. , Yong, Y. , & Fei-Yue, W. . (2018). Research on the selection strategies of blockchain mining pools. IEEE Transactions on Computational Social Systems, 1-10.
+
+4. Vitt, D. C. . (2013). Breaking bitcoin: does cryptocurrency exchange activity lead to increased real activity outside cryptocurrency exchanges?. Ssrn Electronic Journal.
+
+5. Decker, C. , Guthrie, J. , Seidel, J. , & Wattenhofer, R. . (2015). Making bitcoin exchanges transparent.
+
+6.  http://www.miit.gov.cn/n1146290/n4388791/c5781140/content.html
+
+7. https://www.sfc.hk/web/TC/news-and-announcements/policy-statements-and-announcemen ts/reg-framework-virtual-asset-portfolios-managers-fund-distributors-trading-platform-operat ors.html
+
+8. https://www.dfs.ny.gov/about/press/pr1810231.htm
