@@ -115,7 +115,7 @@ Falling price of Bitcoin is putting pressure on mining farms. Bitcoin price stoo
 
 **Mainland China**: the PBoC and six other government departments released a document on September 4, 2017 to shut down cryptocurrency exchanges. (Source: http://www.miit.gov.cn/n1146290/n4388791/c5781140/content.html)
 
-**Hong Kong**: the Securities and Futures Commission released its Statement on regulatory framework for virtual asset portfolios managers, fund distributors and trading platform operators on November 1, 2018, and cryptocurrency exchanges became an experimental financial technology project in Hong Kong. If the project proves feasible, official licenses would be issued to cryptocurrency exchanges. (Source: https://www.sfc.hk/web/TC/news-and-announcements/policy-statements-and-announcemen ts/reg-framework-virtual-asset-portfolios-managers-fund-distributors-trading-platform-operat ors.html)
+**Hong Kong**: the Securities and Futures Commission released its Statement on regulatory framework for virtual asset portfolios managers, fund distributors and trading platform operators on November 1, 2018, and cryptocurrency exchanges became an experimental financial technology project in Hong Kong. If the project proves feasible, official licenses would be issued to cryptocurrency exchanges. (Source: https://www.sfc.hk/web/TC/news-and-announcements/policy-statements-and-announcements/reg-framework-virtual-asset-portfolios-managers-fund-distributors-trading-platform-operators.html)
 
 **US**: adopts an open attitude towards crypto assets but the US Securities and Exchange Commission (SEC), the US Commodity Futures Trading Commission (CFTC) and the US Internal Revenue Service (IRS) have laws and regulations for crypto assets. SEC believes that some crypto assets can be classified as securities. Meanwhile, cryptocurrency exchanges must be registered at or licensed by the SEC, and initial coin offerings (ICOs) must be registered and regulated. CFTC is in charge of Bitcoin futures trading and it considers crypto assets as a type of commodity. IRS considers Bitcoins and other crypto assets as assets rather than currencies.
 
@@ -236,6 +236,6 @@ Joint custody service: a custodian provides five private keys for a crypto asset
 
 6.  http://www.miit.gov.cn/n1146290/n4388791/c5781140/content.html
 
-7. https://www.sfc.hk/web/TC/news-and-announcements/policy-statements-and-announcemen ts/reg-framework-virtual-asset-portfolios-managers-fund-distributors-trading-platform-operat ors.html
+7. https://www.sfc.hk/web/TC/news-and-announcements/policy-statements-and-announcements/reg-framework-virtual-asset-portfolios-managers-fund-distributors-trading-platform-operators.html
 
 8. https://www.dfs.ny.gov/about/press/pr1810231.htm
